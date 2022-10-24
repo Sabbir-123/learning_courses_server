@@ -35,3 +35,5 @@ app.get('/blockchain/:id', (req, res) => {
 app.listen(Port, () => {
   console.log("first", Port);
 });
+
+module.exports=app;
