@@ -1,0 +1,44 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "category_id": "01",
+      "title": "Solidity",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/160px-Solidity_logo.svg.png",
+      "details": "Solidity was proposed in August 2014 by the language was later developed by the Ethereum Project's Solidity Team, led by Christian Reitwiessner. Solidity is the primary language on Ethereum as well as on other private blockchains, such as the enterprise-oriented HyperLedger Fabric blockchain. SWIFT deployed a proof of concept using Solidity running on Hyperledger Fabric."
+    },
+    {
+      "_id": "0282e0e58a5c404wdqwedq11222455b6a",
+      "category_id": "02",
+      "title": "Python",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/242px-Python-logo-notext.svg.png",
+      "details": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.[33] Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a language due to its comprehensive standard library.."
+    },
+    {
+      "_id": "0282e0e0033939rc2dfw111242453456ss",
+      "category_id": "03",
+      "title": "Rust",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/242px-Rust_programming_language_black_logo.svg.png",
+      "details": "Rust is a multi-paradigm, general-purpose programming language. Rust emphasizes performance, type safety, and concurrency.[11][12][13] Rust enforces memory safety—that is, that all references point to valid memory—without requiring the use of a garbage collector or reference counting present in other memory-safe languages."
+    },
+    {
+      "_id": "0282e0e58ascnbvnmxbcvisdvi11224455",
+      "category_id": "04",
+      "title": "GoLang",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/429px-Go_Logo_Blue.svg.png",
+      "details": "Go is a statically typed, compiled programming language designed at Google[11] by Robert Griesemer, Rob Pike, and Ken Thompson.[12] It is syntactically similar to C, but with memory safety, garbage collection, structural typing,[6] and CSP-style concurrency.[13] It is often referred to as Golang because of its former domain name, golang.org, but its proper name is Go."
+    },
+    {
+      "_id": "0282e0e58adshfjhfd09s8f04123418247b",
+      "category_id": "05",
+      "title": "Javascript",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMb1lWBka_6gJ1svLjBi8EgLGX2h5OnumGpg&usqp=CAU",
+      "details": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices."
+    },
+    {
+      "_id": "0282e0e5dvspwoqdnqb2ew7810e129712310j",
+      "category_id": "06",
+      "title": "Vyper",
+      "image_url": "https://vyper.readthedocs.io/en/stable/_images/vyper-logo-transparent.svg",
+      "details": "Vyper is a contract-oriented, pythonic programming language that targets the Ethereum Virtual Machine (EVM). Security: It should be possible and natural to build secure smart-contracts in Vyper. Language and compiler simplicity: The language and the compiler implementation should strive to be simple.."
+    }
+]
