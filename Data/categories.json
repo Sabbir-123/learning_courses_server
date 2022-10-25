@@ -1,26 +1,32 @@
 [
     {
       "id": "01",
-      "name": "Solidity"
+      "name": "Solidity",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/160px-Solidity_logo.svg.png"
     },
     {
       "id": "02",
-      "name": "Python"
+      "name": "Python",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/242px-Python-logo-notext.svg.png"
     },
     {
       "id": "03",
-      "name": "Rust"
+      "name": "Rust",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/242px-Rust_programming_language_black_logo.svg.png"
     },
     {
       "id": "04",
-      "name": "GoLang"
+      "name": "GoLang",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/429px-Go_Logo_Blue.svg.png"
     },
     {
       "id": "05",
-      "name": "Javascript"
+      "name": "Javascript",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMb1lWBka_6gJ1svLjBi8EgLGX2h5OnumGpg&usqp=CAU"
     },
     {
       "id": "06",
-      "name": "Vyper"
+      "name": "Vyper",
+      "image_url": "https://vyper.readthedocs.io/en/stable/_images/vyper-logo-transparent.svg"
     }
   ]
