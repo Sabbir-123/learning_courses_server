@@ -7,6 +7,7 @@ const Port = process.env.Port || 5000;
 const categories = require("./Data/categories.json");
 const blockchain = require('./Data/data.json');
 
+
 app.get("/", (req, res) => {
   res.send("Now Server is running");
 });
@@ -31,6 +32,16 @@ app.get('/blockchain/:id', (req, res) => {
     const selectedNews = blockchain.find(n => n._id === id);
     res.send(selectedNews);
 });
+
+app.get('/premium', (req, res) =>{
+    res.send(blockchain);
+});
+
+app.get('/premium/:id', (req, res)=>{
+    const id = req.params.id;
+    const selectedNews = blockchain.find(n => n._id === id);
+    res.send(selectedNews);
+})
 
 app.listen(Port, () => {
   console.log("first", Port);
